@@ -60,12 +60,3 @@ To set up and run the program on your local machine, follow these steps:
    git clone https://github.com/AhmadSaadeh03/push_swap.git
    cd push_swap
    make
-./push_swap 3 1 5 2 4
-For the input 3 1 5 2 4, the program might output:
-sa
-pb
-pb
-ra
-pa
-pa
-
